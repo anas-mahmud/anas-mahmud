@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a MERN Stack developer with a passion for building scalable and reliable web applications. I'm proficient in React JS, and I have experience with a variety of other technologies, including Redux, TypeScript, Node.js, Express.js, and MongoDB.<br>and I'm always willing to assist my coworkers. I'm also a quick learner and always up for a challenge.<br><br>I'm looking for an opportunity to use my skills and experience to build innovative web applications that make a difference in the world.</p>
+<p align="left">I'm a MERN Stack engineer who enjoys developing scalable and dependable online applications. I'm a good team player as well, and I'm always willing to assist my coworkers. I'm also a quick learner and I'm always up for a challenge.<br><br>I'm looking for an opportunity to use my skills and experience to build innovative web applications that make a difference in the world.</p>
 
 ###
 
