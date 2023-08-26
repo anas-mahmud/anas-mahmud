@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a MERN Stack developer with a passion for building scalable and reliable web applications. I'm proficient in React JS, and I have experience with a variety of other technologies, including Redux, TypeScript, Node.js, Express.js, and MongoDB.<br><br>I'm a team player and I'm always willing to help out my colleagues. I'm also a quick learner and I'm always eager to take on new challenges.<br><br>I'm looking for an opportunity to use my skills and experience to build innovative web applications that make a difference in the world.</p>
+<p align="left">I'm a MERN Stack developer with a passion for building scalable and reliable web applications. I'm proficient in React JS, and I have experience with a variety of other technologies, including Redux, TypeScript, Node.js, Express.js, and MongoDB.<br><br>I'm a team player, and I'm always willing to help out my colleagues. I'm also a quick learner, and I'm always eager to take on new challenges.<br><br>I'm looking for an opportunity to use my skills and experience to build innovative web applications that make a difference in the world.</p>
 
 ###
 
@@ -53,7 +53,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/anas-mahmud/anas-mahmud/output/snake.svg" alt="Snake animation" />
 
 ###
