@@ -62,7 +62,6 @@
 
 ###
 
-![Snake animation]
-(https://github.com/{{your_username}}/anas-mahmud/blob/output/github-contribution-grid-snake.svg)
+https://github.com/{{your_username}}/anas-mahmud/blob/output/github-contribution-grid-snake.svg
 
 ###
