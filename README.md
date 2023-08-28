@@ -1,4 +1,4 @@
-<h2 align="center">My name is Anas Mahmud, and I'm a Full-Stack Developer.</h2>
+<h1 align="center">My name is Anas Mahmud, and I'm a Full-Stack Developer.</h2>
 
 ###
 
@@ -69,7 +69,7 @@
 </div>
 
 ### 🔭 I’m working - On WebTech Solution. 
-### 🌱 I’m exploring - Backend technology for the web. 
+### 🌱 I’m exploring - Advance Backend Technology for the web. 
 ### 👯 I’m looking - To collaborate on open-source projects.
 ### 🤔 I’m trying - To help people learn web development.
 ### ⚡ Fun fact - I love to explore new things and take challenges.
