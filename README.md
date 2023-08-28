@@ -11,6 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anas-mahmud&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=true" height="165" alt="languages graph"  />
 </div>
 
+<br></br>
 ###
 
 <div align="center">
@@ -38,6 +39,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
+
+<br></br>
 
 ###
 
