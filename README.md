@@ -11,7 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anas-mahmud&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=true" height="165" alt="languages graph"  />
 </div>
 
-<br></br>
+<br />
 ###
 
 <div align="center">
@@ -40,9 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
 
-<br></br>
-
-###
+## :mailbox: Reach me out
 
 <div align="center">
   <a href="https://www.linkedin.com/in/aanas-mahmud/">
@@ -63,7 +61,7 @@
   </a>
 </div>
 
-<br></br>
+<br />
 
 ## :eyes: Current overview
 
@@ -77,7 +75,7 @@
 ### 🤔 I’m trying - To help people learn web development.
 ### ⚡ Fun fact - I love to explore new things and take challenges.
 
-<br></br>
+<br />
 
 ![Snake animation](https://github.com/anas-mahmud/anas-mahmud/blob/output/github-contribution-grid-snake.svg)
 
