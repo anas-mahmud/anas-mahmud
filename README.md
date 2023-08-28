@@ -3,6 +3,7 @@
 
 <p align="left">I'm a MERN Stack engineer who enjoys developing scalable and dependable online applications. I'm a good team player as well, and I'm always willing to assist my coworkers. I'm also a quick learner and always up for a challenge.<br><br>I'm looking for an opportunity to use my skills and experience to build innovative web applications that make a difference in the world.</p>
 
+<br/>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=anas-mahmud&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5&date_format=M j[, Y]" height="165" alt="streak graph"  />
