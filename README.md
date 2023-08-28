@@ -40,11 +40,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
 </div>
-<br />
 
 ## :mailbox: Reach me out
 
-<br />
+
 <div align="center">
   <a href="https://www.linkedin.com/in/aanas-mahmud/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
