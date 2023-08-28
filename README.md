@@ -1,18 +1,14 @@
 <h1 align="center">My name is Anas Mahmud, and I'm a Full-Stack Developer.</h2>
 
-###
 
 <p align="left">I'm a MERN Stack engineer who enjoys developing scalable and dependable online applications. I'm a good team player as well, and I'm always willing to assist my coworkers. I'm also a quick learner and always up for a challenge.<br><br>I'm looking for an opportunity to use my skills and experience to build innovative web applications that make a difference in the world.</p>
 
-###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=anas-mahmud&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5&date_format=M j[, Y]" height="165" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anas-mahmud&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=true" height="165" alt="languages graph"  />
 </div>
 
-<br />
-###
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
@@ -79,4 +75,3 @@
 
 ![Snake animation](https://github.com/anas-mahmud/anas-mahmud/blob/output/github-contribution-grid-snake.svg)
 
-###
