@@ -7,7 +7,7 @@
 
 <br />
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=anas-mahmud&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5&date_format=M j[, Y]" height="180" padding-right="10" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=anas-mahmud&locale=en&mode=daily&theme=nord&hide_border=true&border_radius=5&date_format=M j[, Y]" height="180" padding-right="10px" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anas-mahmud&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=true" height="180" alt="languages graph"  />
 </div>
 <br />
