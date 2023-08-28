@@ -60,6 +60,8 @@
   </a>
 </div>
 
+<a href="https://app.daily.dev/anas_mahmud"><img src="https://api.daily.dev/devcards/8114e0a9221f4298ba695f39be5fd044.png?r=m0g" width="400" alt="Anas Mahmud's Dev Card"/></a>
+
 ![Snake animation](https://github.com/anas-mahmud/anas-mahmud/blob/output/github-contribution-grid-snake.svg)
 
 ###
