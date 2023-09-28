@@ -7,8 +7,8 @@
 
 <br />
 <div align="center">
-<!--   <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=anas-mahmud&theme=nord&hide_border=true&border_radius=5" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anas-mahmud&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=true" height="180" alt="languages graph"  />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=anas-mahmud&theme=nord&hide_border=true&border_radius=5" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=anas-mahmud&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=true" alt="languages graph"  />
 </div>
 <br />
 
