@@ -72,8 +72,8 @@
 
 ### 🔭 I’m working - In Selosia. 
 ### 🌱 I’m exploring - Advance Backend Technology for the web. 
+### :computer: &emsp; Most used line of code: `console.log("hello world")`
 ### 👯 I’m looking - To collaborate on open-source projects.
-### :computer: &emsp; Most used line of code `console.log("hello world")` <br/>
 ### 🤔 I’m trying - To help people learn web development.
 ### ⚡ Fun fact - I love to explore new things and take challenges.
 
