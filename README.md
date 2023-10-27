@@ -13,7 +13,6 @@
 <br />
 
 ## :computer: Technologies that I know
-
 <br />
 <div align="center">
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
