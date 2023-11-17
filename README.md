@@ -74,7 +74,6 @@
 ### 👯 I’m trying - To help people learn web development.
 ### ⚡ Fun fact - I love to explore new things and take challenges.
 ### :computer: Most-used line of code: `console.log("hello world")`.
-
 <br />
 
 <!-- ![Snake animation](https://github.com/anas-mahmud/anas-mahmud/blob/output/github-contribution-grid-snake.svg) -->
