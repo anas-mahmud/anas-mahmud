@@ -76,5 +76,6 @@
 ### :computer: Most-used line of code: `console.log("hello world")`
 <br />
 
+![](https://komarev.com/ghpvc/?username=anas-mahmud)
 
 <!-- ![Snake animation](https://github.com/anas-mahmud/anas-mahmud/blob/output/github-contribution-grid-snake.svg) -->
