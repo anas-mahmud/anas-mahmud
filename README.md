@@ -74,8 +74,7 @@
 ### 👯 I’m trying - To help people learn web development.
 ### ⚡ Fun fact - I love to explore new things and take challenges.
 ### :computer: Most-used line of code: `console.log("hello world")`
-![](https://komarev.com/ghpvc/?username=anas-mahmud&label=PROFILE+VIEWS&style=for-the-badge)
 <br />
-
+![](https://komarev.com/ghpvc/?username=anas-mahmud&label=PROFILE+VIEWS&style=for-the-badge)
 
 <!-- ![Snake animation](https://github.com/anas-mahmud/anas-mahmud/blob/output/github-contribution-grid-snake.svg) -->
