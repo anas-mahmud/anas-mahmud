@@ -4,7 +4,6 @@
 
 ## :chart_with_upwards_trend: Current Stats
 
-
 <br />
 <div align="center">
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=anas-mahmud&theme=nord&hide_border=true&border_radius=5" />
