@@ -80,7 +80,6 @@
 
 ## :book: My recent blog posts
 
-
 - [What is JSX elements in React?](https://dev.to/anas_mahmud/what-is-the-jsx-element-in-react-1mhm)
 
 
