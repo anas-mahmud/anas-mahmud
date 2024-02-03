@@ -79,7 +79,6 @@
 
 ![](https://komarev.com/ghpvc/?username=anas-mahmud&label=PROFILE+VIEWS&style=for-the-badge&color=blue)
 
-
 ## :book: My recent blog posts
 
 
