@@ -1,5 +1,4 @@
 <h1 align="center">Hello! I'm Anas Mahmud, I'm a Full Stack Developer.</h2>
-
 <p align="left">I'm a MERN Stack engineer who enjoys developing scalable and dependable online applications. Also, I'm a good team player and always willing to assist my coworkers. In addition, I pick things up quickly and am always up for a challenge. <br><br>I'm looking for an opportunity to use my skills and experience to build innovative web applications that make an impact on society.</p>
 
 ## :chart_with_upwards_trend: Current Stats
