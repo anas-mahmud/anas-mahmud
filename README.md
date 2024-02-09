@@ -84,5 +84,4 @@
 
 - [What is JSX elements in React?](https://dev.to/anas_mahmud/what-is-the-jsx-element-in-react-1mhm)
 
-
 <!-- ![Snake animation](https://github.com/anas-mahmud/anas-mahmud/blob/output/github-contribution-grid-snake.svg) -->
