@@ -78,10 +78,14 @@
 ### :computer: Most-used line of code: `console.log("hello world")`
 <br />
 
+
 ![](https://komarev.com/ghpvc/?username=anas-mahmud&label=PROFILE+VIEWS&style=for-the-badge&color=blue)
+
 
 ## :book: My recent blog posts
 
+
 - [What is JSX elements in React?](https://dev.to/anas_mahmud/what-is-the-jsx-element-in-react-1mhm)
+
 
 <!-- ![Snake animation](https://github.com/anas-mahmud/anas-mahmud/blob/output/github-contribution-grid-snake.svg) -->
